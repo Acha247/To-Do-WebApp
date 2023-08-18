@@ -1,4 +1,5 @@
 #!bin/bash
+#Author: Acha Asong
 sudo dnf install git -y
 git clone -v https://github.com/Acha247/To-Do-WebApp.git
 sudo dnf install httpd -y
